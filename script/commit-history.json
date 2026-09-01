@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Shanayna De Ugarte",
+    "commit": {
+      "date": "2026-09-01T14:16:37.000Z",
+      "message": "TDD: marcador inicial Love-Love",
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+    },
+    "stats": {
+      "total": 63,
+      "additions": 33,
+      "deletions": 30,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
