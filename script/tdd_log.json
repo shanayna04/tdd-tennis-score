@@ -218,9 +218,23 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5b677ca6f911a02d7c6320ed5527fa7020c4d6fd",
     "commitName": "TDD: maneja Advantage Player1 y Player2",
     "commitTimestamp": 1788404615703,
     "testId": 7
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1788404748284,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "TDD: agrega test para Advantage Player2 (pasa sin cambios en produccion)",
+    "commitTimestamp": 1788404785997,
+    "testId": 8
   }
 ]
