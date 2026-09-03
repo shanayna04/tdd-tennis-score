@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e0145de11692254e62aa66769ddf7259bd860b7d",
     "author": "Shanayna De Ugarte",
     "commit": {
       "date": "2026-09-03T03:06:25.000Z",
       "message": "TDD: agrega test para Advantage Player2 (pasa sin cambios en produccion)",
-      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/e0145de11692254e62aa66769ddf7259bd860b7d"
     },
     "stats": {
       "total": 11,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Shanayna De Ugarte",
+    "commit": {
+      "date": "2026-09-03T03:15:03.000Z",
+      "message": "TDD: maneja Game for Player1 y Player2",
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 18,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 95.45,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }

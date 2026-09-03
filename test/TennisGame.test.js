@@ -71,3 +71,15 @@ test('jugador 2 anota en deuce: Advantage Player2' , () => {
   game.wonPoint('Player2');
   expect(game.score()).toBe('Advantage Player2');
 });
+test('jugador 1 gana con ventaja: Game for Player1' , () => {
+  const game = new TennisGame('Player1', 'Player2');
+  game.wonPoint('Player1');
+  game.wonPoint('Player2');
+  game.wonPoint('Player1');
+  game.wonPoint('Player2');
+  game.wonPoint('Player1');
+  game.wonPoint('Player2');
+  game.wonPoint('Player1');
+  game.wonPoint('Player1');
+  expect(game.score()).toBe('Game for Player1');
+});

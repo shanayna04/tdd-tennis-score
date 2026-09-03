@@ -22,6 +22,12 @@ class TennisGame {
   score() {
     const diferencia = this.p1Points - this.p2Points;
     if (this.p1Points >= 4 || this.p2Points >= 4){
+      if (diferencia >= 2) {
+        return `Game for ${this.player1Name}`;
+      }
+      if (diferencia <= -2) {
+        return `Game for ${this.player2Name}`;
+      }
       if (diferencia === 1){
         return `Advantage ${this.player1Name}`;
       }
