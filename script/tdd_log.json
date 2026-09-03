@@ -152,9 +152,23 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ec5b9aa53fa128d08da6b1f864ca64f8eab5b38e",
     "commitName": "TDD: grega test para 30-30 (pasa sin cambios en produccion)",
     "commitTimestamp": 1788403228066,
     "testId": 4
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1788403565105,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "TDD: agrega test para 40-30 (pasa sin cambios en produccion)",
+    "commitTimestamp": 1788403633068,
+    "testId": 5
   }
 ]
