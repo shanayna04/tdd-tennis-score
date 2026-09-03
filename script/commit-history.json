@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d4a7191cd362054f91676ebc1a7a4b6e62b60256",
     "author": "Shanayna De Ugarte",
     "commit": {
       "date": "2026-09-03T03:15:03.000Z",
       "message": "TDD: maneja Game for Player1 y Player2",
-      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/d4a7191cd362054f91676ebc1a7a4b6e62b60256"
     },
     "stats": {
       "total": 18,
@@ -186,6 +186,25 @@
     },
     "coverage": 95.45,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Shanayna De Ugarte",
+    "commit": {
+      "date": "2026-09-03T03:19:22.000Z",
+      "message": "TDD: agrega test para Game for Player2",
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 12,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }

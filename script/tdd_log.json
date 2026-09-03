@@ -254,9 +254,23 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d4a7191cd362054f91676ebc1a7a4b6e62b60256",
     "commitName": "TDD: maneja Game for Player1 y Player2",
     "commitTimestamp": 1788405303936,
     "testId": 9
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788405503730,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "TDD: agrega test para Game for Player2",
+    "commitTimestamp": 1788405562335,
+    "testId": 10
   }
 ]
