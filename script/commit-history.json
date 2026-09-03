@@ -209,17 +209,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "2c0f19410d5f58b3aa3e3e93330a86bf2fd04203",
     "author": "Shanayna De Ugarte",
     "commit": {
       "date": "2026-09-03T03:24:25.000Z",
       "message": "TDD: agrega test para volver a Deus tras ventaja",
-      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/2c0f19410d5f58b3aa3e3e93330a86bf2fd04203"
     },
     "stats": {
       "total": 12,
       "additions": 12,
       "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Shanayna De Ugarte",
+    "commit": {
+      "date": "2026-09-03T03:51:16.000Z",
+      "message": "Agrega interfaz web con botones para marcar puntos y reiniciar",
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+    },
+    "stats": {
+      "total": 49,
+      "additions": 39,
+      "deletions": 10,
       "date": "2026-09-03"
     },
     "coverage": 100,
