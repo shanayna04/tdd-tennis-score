@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b3b1b38971ac57c460477966b766feea8f8a8da0",
     "author": "Shanayna De Ugarte",
     "commit": {
       "date": "2026-09-03T02:13:50.000Z",
       "message": "TDD: jugador anota punto - 15-Love",
-      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/b3b1b38971ac57c460477966b766feea8f8a8da0"
     },
     "stats": {
       "total": 24,
@@ -34,6 +34,25 @@
     },
     "coverage": 90,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Shanayna De Ugarte",
+    "commit": {
+      "date": "2026-09-03T02:26:42.000Z",
+      "message": "TDD: agrega test para 15-15",
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
