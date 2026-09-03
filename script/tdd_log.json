@@ -116,9 +116,31 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6d60fa94575570d479a0d3f40dc091825363eacd",
     "commitName": "TDD: agrega test para 15-15",
     "commitTimestamp": 1788402402816,
     "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1788402637055,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1788402722852,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "TDD: agrega test para 30-15 (pasa sin cambios en produccion)",
+    "commitTimestamp": 1788402762266,
+    "testId": 3
   }
 ]
