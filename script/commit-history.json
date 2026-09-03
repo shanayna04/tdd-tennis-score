@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f39bfe48fc6be872628207aee9ee1acbda27e69f",
     "author": "Shanayna De Ugarte",
     "commit": {
       "date": "2026-09-03T02:32:42.000Z",
       "message": "TDD: agrega test para 30-15 (pasa sin cambios en produccion)",
-      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/f39bfe48fc6be872628207aee9ee1acbda27e69f"
     },
     "stats": {
       "total": 7,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Shanayna De Ugarte",
+    "commit": {
+      "date": "2026-09-03T02:40:27.000Z",
+      "message": "TDD: grega test para 30-30 (pasa sin cambios en produccion)",
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
