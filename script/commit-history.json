@@ -228,17 +228,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b1170eb8037169440066dc69ab7b6d23e7dc717a",
     "author": "Shanayna De Ugarte",
     "commit": {
       "date": "2026-09-03T03:51:16.000Z",
       "message": "Agrega interfaz web con botones para marcar puntos y reiniciar",
-      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/b1170eb8037169440066dc69ab7b6d23e7dc717a"
     },
     "stats": {
       "total": 49,
       "additions": 39,
       "deletions": 10,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Shanayna De Ugarte",
+    "commit": {
+      "date": "2026-09-03T04:05:57.000Z",
+      "message": "Fix: elimina campo main conflictivo en package.json para build de Netlify",
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2026-09-03"
     },
     "coverage": 100,

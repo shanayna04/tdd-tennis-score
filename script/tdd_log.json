@@ -288,9 +288,15 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b1170eb8037169440066dc69ab7b6d23e7dc717a",
     "commitName": "Agrega interfaz web con botones para marcar puntos y reiniciar",
     "commitTimestamp": 1788407476286,
     "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Fix: elimina campo main conflictivo en package.json para build de Netlify",
+    "commitTimestamp": 1788408357965,
+    "testId": 13
   }
 ]
