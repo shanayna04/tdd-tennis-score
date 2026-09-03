@@ -20,6 +20,10 @@ class TennisGame {
   }
 
   score() {
+    if (this.p1Points === this.p2Points && this.p1Points >= 3) {
+    return 'Deuce';
+    }
+    
     return `${this.scoreName(this.p1Points)}-${this.scoreName(this.p2Points)}`;
   }
 }

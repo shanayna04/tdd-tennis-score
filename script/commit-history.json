@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b6e92fcd5ece41162033fa7717f5ad74ab2d9204",
     "author": "Shanayna De Ugarte",
     "commit": {
       "date": "2026-09-03T02:47:12.000Z",
       "message": "TDD: agrega test para 40-30 (pasa sin cambios en produccion)",
-      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/b6e92fcd5ece41162033fa7717f5ad74ab2d9204"
     },
     "stats": {
       "total": 9,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Shanayna De Ugarte",
+    "commit": {
+      "date": "2026-09-03T02:53:45.000Z",
+      "message": "TDD: maneja el caso Deuce cuando ambos llegan a 40",
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }

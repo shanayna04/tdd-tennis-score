@@ -166,9 +166,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b6e92fcd5ece41162033fa7717f5ad74ab2d9204",
     "commitName": "TDD: agrega test para 40-30 (pasa sin cambios en produccion)",
     "commitTimestamp": 1788403633068,
     "testId": 5
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1788403784272,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1788403989576,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "TDD: maneja el caso Deuce cuando ambos llegan a 40",
+    "commitTimestamp": 1788404025389,
+    "testId": 6
   }
 ]
