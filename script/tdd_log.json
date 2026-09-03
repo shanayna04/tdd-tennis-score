@@ -24,9 +24,55 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "56c56db91f251d5e64f0aa684ecada4a403ef58d",
     "commitName": "TDD: marcador inicial Love-Love",
     "commitTimestamp": 1788272198674,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1788272337107,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 2,
+    "numTotalTests": 2,
+    "timestamp": 1788401118983,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 0,
+    "numTotalTests": 0,
+    "timestamp": 1788401314599,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 2,
+    "numTotalTests": 2,
+    "timestamp": 1788401450928,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1788401560487,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "TDD: jugador anota punto - 15-Love",
+    "commitTimestamp": 1788401630593,
+    "testId": 1
   }
 ]

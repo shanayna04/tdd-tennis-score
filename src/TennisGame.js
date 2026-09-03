@@ -6,9 +6,22 @@ class TennisGame {
     this.p2Points = 0;
   }
 
+  wonPoint(playerName) {
+    if (playerName === this.player1Name) {
+      this.p1Points++;
+    } else {
+      this.p2Points++;
+    }
+  }
+
+  scoreName(points) {
+    const names = ['Love', '15', '30', '40'];
+    return names[points];
+  }
+
   score() {
-    return 'Love-Love';
+    return `${this.scoreName(this.p1Points)}-${this.scoreName(this.p2Points)}`;
   }
 }
 
-module.exports = TennisGame;
+export default TennisGame;
