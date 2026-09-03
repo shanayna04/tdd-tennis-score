@@ -268,9 +268,23 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "bc3f4c36c7da6061df0bac7fe9e16c9e858370ce",
     "commitName": "TDD: agrega test para Game for Player2",
     "commitTimestamp": 1788405562335,
     "testId": 10
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1788405753128,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "TDD: agrega test para volver a Deus tras ventaja",
+    "commitTimestamp": 1788405865336,
+    "testId": 11
   }
 ]
