@@ -20,10 +20,19 @@ class TennisGame {
   }
 
   score() {
+    const diferencia = this.p1Points - this.p2Points;
+    if (this.p1Points >= 4 || this.p2Points >= 4){
+      if (diferencia === 1){
+        return `Advantage ${this.player1Name}`;
+      }
+      if (diferencia === -1){
+        return `Advantage ${this.player2Name}`;
+      }
+    }
     if (this.p1Points === this.p2Points && this.p1Points >= 3) {
     return 'Deuce';
     }
-    
+
     return `${this.scoreName(this.p1Points)}-${this.scoreName(this.p2Points)}`;
   }
 }

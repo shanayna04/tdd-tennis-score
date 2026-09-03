@@ -49,3 +49,14 @@ test('ambos jugadores llegan a 40: Deuce' , () => {
   game.wonPoint('Player2');
   expect(game.score()).toBe('Deuce');
 });
+test('jugador 1 anota en deuce: Advantage Player1', () => {
+  const game = new TennisGame('Player1', 'Player2');
+  game.wonPoint('Player1');
+  game.wonPoint('Player2');
+  game.wonPoint('Player1');
+  game.wonPoint('Player2');
+  game.wonPoint('Player1');
+  game.wonPoint('Player2');
+  game.wonPoint('Player1');
+  expect(game.score()).toBe('Advantage Player1');
+});

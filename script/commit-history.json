@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "2be6b2316a7e52d8321dc9eb1fa68e6c6d58aa3d",
     "author": "Shanayna De Ugarte",
     "commit": {
       "date": "2026-09-03T02:53:45.000Z",
       "message": "TDD: maneja el caso Deuce cuando ambos llegan a 40",
-      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/2be6b2316a7e52d8321dc9eb1fa68e6c6d58aa3d"
     },
     "stats": {
       "total": 14,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Shanayna De Ugarte",
+    "commit": {
+      "date": "2026-09-03T03:03:35.000Z",
+      "message": "TDD: maneja Advantage Player1 y Player2",
+      "url": "https://github.com/shanayna04/tdd-tennis-score/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 21,
+      "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 88.89,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }

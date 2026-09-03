@@ -188,9 +188,39 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2be6b2316a7e52d8321dc9eb1fa68e6c6d58aa3d",
     "commitName": "TDD: maneja el caso Deuce cuando ambos llegan a 40",
     "commitTimestamp": 1788404025389,
     "testId": 6
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1788404195082,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1788404257368,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1788404524273,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "TDD: maneja Advantage Player1 y Player2",
+    "commitTimestamp": 1788404615703,
+    "testId": 7
   }
 ]
